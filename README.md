@@ -19,8 +19,8 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
-  <em>Figura 1. Fotografía del equipo 0X</em>
+<img width="1408" height="768" alt="Equipo.png" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+  <em>Figura 1. Fotografía del equipo 07</em>
 </p>
 
 ---
@@ -29,11 +29,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 1** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 2** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 3** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Nombre 4** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Nombre 5** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Integrante 1.jpeg" width="90"/> | **Arantxa Iturriaga** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Integrante 2.jpeg" width="90"/> | **Dylan Infante** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Integrante 3.jpeg" width="90"/> | **Andrea López** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Integrante 4.jpeg" width="90"/> | **Erik de la Cruz** | Encargado de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Integrante 5.jpeg" width="90"/> | **Thiago Diaz** | Programador - Modelador | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Integrante 6.jpeg" width="90"/> | **David Ferroa** | Encargado - Impresión 3D | Laminado, prototipado, impresión |
 
 ---
 
