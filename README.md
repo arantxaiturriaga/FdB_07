@@ -1,4 +1,4 @@
-# FdB_07
+# FdB_Equipo"07"
 ### Carrera de Ingeniería Biomédica 
 **Universidad Peruana Cayetano Heredia**
 
@@ -13,6 +13,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 - ODS 9: Industria, Innovación e Infraestructura  
 - ODS 11: Ciudades y Comunidades Sostenibles  
 
+Nos interesa trabajar en las siguientes **Enfermedades:**  
+- Parkinson
+- Hemiplejía  
+- Alzheimer
 ---
 
 ## 📸 Fotografía del Equipo  
@@ -27,12 +31,12 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/Integrante 1.jpeg" width="90"/> | **Arantxa Iturriaga** | Líder del equipo | Innovación social, sostenibilidad |
-| <img src="/Recursos/Imágenes/Integrante 2.jpeg" width="90"/> | **Dylan Infante** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
-| <img src="/Recursos/Imágenes/Integrante 3.jpeg" width="90"/> | **Andrea López** | Diseñadora | Diseño de prototipos, creatividad aplicada |
-| <img src="/Recursos/Imágenes/Integrante 4.jpeg" width="90"/> | **Erik de la Cruz** | Encargado de documentación | Comunicación científica, redacción técnica |
-| <img src="/Recursos/Imágenes/Integrante 5.jpeg" width="90"/> | **Thiago Diaz** | Programador - Modelador | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/Integrante 6.jpeg" width="90"/> | **David Ferroa** | Encargado de Impresión 3D | Laminado, prototipado, impresión |
+| <img src="/Recursos/Imágenes/Integrante 1.jpeg" width="90" height="150"/> | **Arantxa Iturriaga** | Líder del equipo | Innovación social, sostenibilidad |
+| <img src="/Recursos/Imágenes/Integrante 2.jpeg" width="90" height="150"/> | **Dylan Infante** | Responsable de investigación | Gestión ambiental, desarrollo comunitario |
+| <img src="/Recursos/Imágenes/Integrante 3.jpeg" width="90" height="150"/> | **Andrea López** | Diseñadora | Diseño de prototipos, creatividad aplicada |
+| <img src="/Recursos/Imágenes/Integrante 4.jpeg" width="90" height="150"/> | **Erik de la Cruz** | Encargado de documentación | Comunicación científica, redacción técnica |
+| <img src="/Recursos/Imágenes/Integrante 5.jpeg" width="90" height="150"/> | **Thiago Diaz** | Programador - Modelador | Programación, análisis de datos, simulación |
+| <img src="/Recursos/Imágenes/Integrante 6.jpeg" width="90" height="150"/> | **David Ferroa** | Encargado de Impresión 3D | Laminado, prototipado, impresión |
 
 ---
 
