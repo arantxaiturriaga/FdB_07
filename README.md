@@ -32,7 +32,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="/Recursos/Imágenes/Integrante 3.jpeg" width="90"/> | **Andrea López** | Diseñadora | Diseño de prototipos, creatividad aplicada |
 | <img src="/Recursos/Imágenes/Integrante 4.jpeg" width="90"/> | **Erik de la Cruz** | Encargado de documentación | Comunicación científica, redacción técnica |
 | <img src="/Recursos/Imágenes/Integrante 5.jpeg" width="90"/> | **Thiago Diaz** | Programador - Modelador | Programación, análisis de datos, simulación |
-| <img src="/Recursos/Imágenes/Integrante 6.jpeg" width="90"/> | **David Ferroa** | Encargado - Impresión 3D | Laminado, prototipado, impresión |
+| <img src="/Recursos/Imágenes/Integrante 6.jpeg" width="90"/> | **David Ferroa** | Encargado de Impresión 3D | Laminado, prototipado, impresión |
 
 ---
 
